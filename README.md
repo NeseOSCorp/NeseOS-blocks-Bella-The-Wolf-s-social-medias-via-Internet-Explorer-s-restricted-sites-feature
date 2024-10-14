@@ -8,6 +8,10 @@ Because, for security reasons, Bella The Wolf's social medias has been blocked o
 
 Yes. NeseOS Defender will blocked Bella The Wolf's exe and other any files by NeseOS Defender. This changes will also affected on our Azure servers.
 
+# This changes will affected Nese Vista?
+
+Yes. Nese Vista Business x64 or later versions, by default, Bella The Wolf's social medias might blocked. So, be carefully!
+
 
 # What I can do?
 
